@@ -3,9 +3,9 @@ Project for ELEC3020, interfacing a model car with a microcontroller and impleme
 
 ## TODO
 - [X] Connect your embedded controller to the selected model car.
-- [ ] Implement “drive-by-wire” from the controller for steering and drive system
+- [X] Implement “drive-by-wire” from the controller for steering and drive system
 - [X] Connect a GPS sensors to the model car
-- [ ] Implement a program to drive the car to a location given by GPS-coordinates
+- [X] Implement a program to drive the car to a location given by GPS-coordinates
 and then come back to the start.
 
 ## Parts used  
